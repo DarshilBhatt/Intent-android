@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_label">Send message</string>
+    <string name="send_message">Welcome to Message Activity</string>
+    <string name="final_activity_message">Welcome to Final Activity</string>
+    <string name="final_activity_button">OPEN FINAL ACTIVITY</string>
+</resources>
